@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:text="name"
+        android:textColor="@android:color/white"
+        android:textSize="15dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tv_organType"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="51dp"
+        android:layout_marginLeft="130dp"
+        android:layout_toEndOf="@+id/tv_name"
+        android:text="organType"
+        android:textColor="@android:color/white"
+        android:textSize="15dp" />
+
+
+    <Button
+        android:id="@+id/btn_assiged"
+        android:layout_width="132dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:text="Assign"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+</LinearLayout>

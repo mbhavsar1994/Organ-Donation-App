@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "743078856790",
+    "firebase_url": "https://auth-organ.firebaseio.com",
+    "project_id": "auth-organ",
+    "storage_bucket": "auth-organ.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743078856790:android:4a70463fcac100d1aad3f7",
+        "android_client_info": {
+          "package_name": "com.organmanage.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743078856790-l4smevcenufnco77cjruo4ssv8qsvpkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwjmD1B-uSt-TcrNBvNYI2QR8OiUyAIns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743078856790-l4smevcenufnco77cjruo4ssv8qsvpkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
