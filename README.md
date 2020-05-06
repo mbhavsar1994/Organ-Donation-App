@@ -6,7 +6,7 @@ Provides the organ donation form and list of Donors with organ details.
 Provides Recipient request form and list of recipients details.  
 
 # Installation
-Use Android Studio and Clone the project from https://github.com/krishna97p/Organ-Donation-app.git then Install the Organ-Donation-app.
+Use Android Studio and Clone the project from https://github.com/mbhavsar1994/Organ-Donation-App.git then Install the Organ-Donation-app.
 Minimum SDK API supported is 21 and Maximum is 28.
 
 # Usage
